@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!# 👋 Hi, I'm Veeranna Goud
+# 👋 Hi, I'm Veeranna Goud
 
 💼 ETL / SSIS / SQL Developer  
 📊 Data Warehousing | MSBI | Power BI  
