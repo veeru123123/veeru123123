@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Veeranna Goud
 
+[![GitHub](https://img.shields.io/badge/GitHub-veeru123123-black?logo=github)](https://github.com/veeru123123)
+
 💼 ETL / SSIS / SQL Developer  
 📊 Data Warehousing | MSBI | Power BI  
 🏦 Banking & 🏥 Healthcare Domain  
